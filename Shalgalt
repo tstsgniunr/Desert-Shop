@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .box{width: 90%;
+        height: 50%;
+        align-items: center;
+        background-color: beige;
+        display: flex;}
+        .box2{width: 300px;
+        height: 400px;
+    background-color: orange;
+display:flex}
+    </style>
+</head>
+<body>
+    <div class="box"
+    <p class="box">Ankhiluunbeleg.B 11A</p>
+    </div>
+    <p class="profile">Student profile</p>
+    <div class="box2">
+        <p class="box2">Jane Doe</p>
+        <p clas="box2">Assistant</p>
+    </div>
+
+</body>
+</html>
